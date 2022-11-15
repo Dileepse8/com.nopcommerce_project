@@ -1,0 +1,2 @@
+cd G:\Education\Selenium_JAVA\nopCommerceV2
+mvn clean install

@@ -1,0 +1,82 @@
+2022-11-14 12:03:31,211 [main] INFO nopEcommerce - URL Is Opened
+2022-11-14 12:03:31,589 [main] INFO nopEcommerce - Username is typed
+2022-11-14 12:03:31,811 [main] INFO nopEcommerce - Password is typed
+2022-11-14 12:03:38,521 [main] INFO nopEcommerce - login is Clicked
+2022-11-14 12:03:44,442 [main] INFO nopEcommerce - Login is passed
+2022-11-14 14:32:59,074 [main] INFO nopEcommerce - URL Is Opened
+2022-11-14 14:33:00,888 [main] INFO nopEcommerce - Username is typed
+2022-11-14 14:33:01,114 [main] INFO nopEcommerce - Password is typed
+2022-11-14 14:33:08,325 [main] INFO nopEcommerce - login is Clicked
+2022-11-14 14:33:14,499 [main] INFO nopEcommerce - Login is passed
+2022-11-14 14:59:07,310 [main] INFO nopEcommerce - URL Is Opened
+2022-11-14 14:59:08,193 [main] INFO nopEcommerce - Username is typed
+2022-11-14 14:59:08,550 [main] INFO nopEcommerce - Password is typed
+2022-11-14 14:59:14,652 [main] INFO nopEcommerce - login is Clicked
+2022-11-14 14:59:20,682 [main] INFO nopEcommerce - Login is passed
+2022-11-14 15:00:06,965 [main] INFO nopEcommerce - URL Is Opened
+2022-11-14 15:00:07,251 [main] INFO nopEcommerce - Username is typed
+2022-11-14 15:00:07,368 [main] INFO nopEcommerce - Password is typed
+2022-11-14 15:00:11,878 [main] INFO nopEcommerce - login is Clicked
+2022-11-14 15:00:17,698 [main] INFO nopEcommerce - Login is passed
+2022-11-14 17:06:34,517 [main] INFO nopEcommerce - URL Is Opened
+2022-11-14 17:06:35,407 [main] INFO nopEcommerce - Username is typed
+2022-11-14 17:06:35,644 [main] INFO nopEcommerce - Password is typed
+2022-11-14 17:06:41,285 [main] INFO nopEcommerce - login is Clicked
+2022-11-14 17:06:47,651 [main] INFO nopEcommerce - Login is passed
+2022-11-14 18:03:51,663 [main] INFO nopEcommerce - URL Is Opened
+2022-11-14 18:03:53,122 [main] INFO nopEcommerce - Username is typed
+2022-11-14 18:03:53,459 [main] INFO nopEcommerce - Password is typed
+2022-11-14 18:04:01,845 [main] INFO nopEcommerce - login is Clicked
+2022-11-14 18:06:09,289 [main] INFO nopEcommerce - URL Is Opened
+2022-11-14 18:06:09,611 [main] INFO nopEcommerce - Username is typed
+2022-11-14 18:06:09,892 [main] INFO nopEcommerce - Password is typed
+2022-11-14 18:06:27,371 [main] INFO nopEcommerce - login is Clicked
+2022-11-14 18:06:43,796 [main] INFO nopEcommerce - User provided
+2022-11-14 18:06:44,071 [main] INFO nopEcommerce - Password provided
+2022-11-14 18:06:53,119 [main] INFO nopEcommerce - Login in Clicked
+2022-11-14 18:07:00,924 [main] INFO nopEcommerce - User provided
+2022-11-14 18:07:01,149 [main] INFO nopEcommerce - Password provided
+2022-11-14 18:07:02,126 [main] INFO nopEcommerce - Login in Clicked
+2022-11-14 18:07:04,142 [main] INFO nopEcommerce - Login Failed
+2022-11-14 18:07:06,752 [main] INFO nopEcommerce - User provided
+2022-11-14 18:07:07,044 [main] INFO nopEcommerce - Password provided
+2022-11-14 18:07:07,772 [main] INFO nopEcommerce - Login in Clicked
+2022-11-14 18:07:09,792 [main] INFO nopEcommerce - Login Failed
+2022-11-14 18:07:11,799 [main] INFO nopEcommerce - User provided
+2022-11-14 18:07:12,136 [main] INFO nopEcommerce - Password provided
+2022-11-14 18:07:13,199 [main] INFO nopEcommerce - Login in Clicked
+2022-11-14 18:07:15,220 [main] INFO nopEcommerce - Login Failed
+2022-11-14 19:15:43,214 [main] INFO nopEcommerce - URL Is Opened
+2022-11-14 19:15:44,770 [main] INFO nopEcommerce - Username is typed
+2022-11-14 19:15:45,006 [main] INFO nopEcommerce - Password is typed
+2022-11-14 19:15:53,444 [main] INFO nopEcommerce - login is Clicked
+2022-11-14 19:16:00,104 [main] INFO nopEcommerce - Login is passed
+2022-11-14 19:16:16,213 [main] INFO nopEcommerce - User provided
+2022-11-14 19:16:16,455 [main] INFO nopEcommerce - Password provided
+2022-11-14 19:16:22,803 [main] INFO nopEcommerce - Login in Clicked
+2022-11-14 19:16:28,062 [main] INFO nopEcommerce - User provided
+2022-11-14 19:16:28,304 [main] INFO nopEcommerce - Password provided
+2022-11-14 19:16:29,107 [main] INFO nopEcommerce - Login in Clicked
+2022-11-14 19:16:31,144 [main] INFO nopEcommerce - Login Failed
+2022-11-14 19:16:33,293 [main] INFO nopEcommerce - User provided
+2022-11-14 19:16:33,793 [main] INFO nopEcommerce - Password provided
+2022-11-14 19:16:34,687 [main] INFO nopEcommerce - Login in Clicked
+2022-11-14 19:16:36,701 [main] INFO nopEcommerce - Login Failed
+2022-11-14 19:16:38,346 [main] INFO nopEcommerce - User provided
+2022-11-14 19:16:38,632 [main] INFO nopEcommerce - Password provided
+2022-11-14 19:16:39,320 [main] INFO nopEcommerce - Login in Clicked
+2022-11-14 19:16:41,339 [main] INFO nopEcommerce - Login Failed
+2022-11-14 19:16:50,588 [main] INFO nopEcommerce - User name is provided
+2022-11-14 19:16:50,809 [main] INFO nopEcommerce - password is provided
+2022-11-14 19:16:56,011 [main] INFO nopEcommerce - providing customer details....
+2022-11-14 19:24:32,406 [main] INFO nopEcommerce - User name is provided
+2022-11-14 19:24:32,633 [main] INFO nopEcommerce - password is provided
+2022-11-14 19:24:37,841 [main] INFO nopEcommerce - providing customer details....
+2022-11-14 19:26:11,814 [main] INFO nopEcommerce - User name is provided
+2022-11-14 19:26:12,095 [main] INFO nopEcommerce - password is provided
+2022-11-14 19:26:18,966 [main] INFO nopEcommerce - providing customer details....
+2022-11-15 07:34:45,885 [main] INFO nopEcommerce - URL Is Opened
+2022-11-15 07:34:46,971 [main] INFO nopEcommerce - Username is typed
+2022-11-15 07:34:47,209 [main] INFO nopEcommerce - Password is typed
+2022-11-15 07:34:52,630 [main] INFO nopEcommerce - login is Clicked
+2022-11-15 07:34:58,471 [main] INFO nopEcommerce - Login is passed
